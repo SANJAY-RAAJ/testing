@@ -1,3 +1,5 @@
 alert('hello')
 console.log('hi')
 alert(nothing)
+console.log('welcome')
+alert('edited')
